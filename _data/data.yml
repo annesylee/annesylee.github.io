@@ -51,16 +51,16 @@ publications:
 
     papers:
       - title: Expressing the personalities of the conversational agents with visual and verbal feedback 
-        authors: <strong> Seoyoung Lee, </strong> Gyuho Lee, Soomin Kim, and Joonhwan Lee. 
+        authors: <strong> Lee, Seoyoung, </strong> Lee, G., Kim, S., and Lee, J. 
         conference: Electronics. 2019
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: Game or Live Streaming?: Motivation and Social Experience in Live Mobile Quiz Shows
+        authors: Kim, S., Lee, G., <strong> Lee, Seoyoung, </strong> Lee, S., and Lee, J.
+        conference: Proceedings of the CHI PLAY’19
 
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Designing Social Dialogue Model for Human-Robot Interactions
+        authors: <strong> Lee, Seoyoung,</strong> Lee, G., Choi, J., and Lim, Y.
+        conference: 16th International Conference on Ubiquitous Robots. IEEE.
 
 experiences:
     - role: Lead Developer
