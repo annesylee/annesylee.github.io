@@ -13,8 +13,8 @@ sidebar:
 
     # Sidebar links
     email: sl2668@cornell.edu
+    phone: 607 220 3754
     website: annesylee.github.io #do not add http://
-    phone:
     linkedin: anne-seo-young-lee
     
     languages:
@@ -37,16 +37,15 @@ sidebar:
       - item: Cooking
         link:
 
-
 career-profile:
     title: Career Profile
     summary: |
-       [download this free resume/CV template here](https://google.com/).
-      My research interests are ...... Especially, I am interested in analyzing and observing interactive and 
-      affective interactions between users and diverse media platforms. 
-
+      Summarise your career here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. You can [download this free resume/CV template here](https://google.com/).
+      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+      Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
-
 education:
     - degree: M.P.S. in Information Science
       university: Cornell University
@@ -60,19 +59,18 @@ education:
 publications:
     title: Publications
     intro: |
-
     papers:
       - title: Expressing the personalities of the conversational agents with visual and verbal feedback 
-        authors: <strong> Lee, Seoyoung, </strong> Lee, G., Kim, S., and Lee, J. 
+        authors: <strong> Seoyoung Lee, </strong> Gyuho Lee, Soomin Kim, and Joonhwan Lee. 
         conference: Electronics. 2019
 
-      - title: Game or Live Streaming?: Motivation and Social Experience in Live Mobile Quiz Shows
-        authors: Kim, S., Lee, G., <strong> Lee, Seoyoung, </strong> Lee, S., and Lee, J.
-        conference: Proceedings of the CHI PLAY 2019
+      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: Designing Social Dialogue Model for Human-Robot Interactions
-        authors: <strong> Lee, Seoyoung,</strong> Lee, G., Choi, J., and Lim, Y.
-        conference: 16th International Conference on Ubiquitous Robots. IEEE.
+      - title: A syntax directed compiler for Algol 60
+        authors: Edgar T. Irons
+        conference: "Comm. ACM 4 (1961), 51–55"
 
 experiences:
     - role: Lead Developer
@@ -88,10 +86,8 @@ experiences:
         error sit voluptatem accusantium doloremque laudantium, totam rem
         aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
         architecto beatae vitae dicta sunt explicabo.
-
           - Bullet point
           - Bullet point
-
     - role: Senior Software Engineer
       time: 2014 - 2015
       company: Google, London
@@ -101,10 +97,8 @@ experiences:
         Cum sociis natoque penatibus et magnis dis parturient montes,
         nascetur ridiculus mus. Donec quam felis, ultricies nec,
         pellentesque eu, pretium quis, sem.
-
           - Bullet point
           - Bullet point
-
     - role: UI Developer
       time: 2012 - 2014
       company: Amazon, London
@@ -114,17 +108,14 @@ experiences:
         Cum sociis natoque penatibus et magnis dis parturient montes,
         nascetur ridiculus mus. Donec quam felis, ultricies nec,
         pellentesque eu, pretium quis, sem.
-
           - Bullet point
           - Bullet point
-
 projects:
     title: Projects
     intro: >
       You can list your side projects or open source libraries in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-
     assignments:
       - title: Velocity
         link: "#hook"
