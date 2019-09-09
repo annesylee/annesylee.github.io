@@ -13,7 +13,6 @@ sidebar:
 
     # Sidebar links
     email: sl2668@cornell.edu
-    phone: 607 220 3754
     website: annesylee.github.io #do not add http://
     linkedin: anne-seo-young-lee
     
@@ -27,24 +26,12 @@ sidebar:
       - idiom: French
         level: Intermediate
 
-    interests:
-      - item: Climbing
-        link:
-
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
-        link:
-
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here](https://google.com/).
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+       [download this free resume/CV template here](https://google.com/).
+      My research interests are ...... Especially, I am interested in analyzing and observing interactive and 
+      affective interactions between users and diverse media platforms. 
 
       Second paragraph if required.
 
