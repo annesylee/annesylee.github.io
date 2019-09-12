@@ -28,10 +28,10 @@ sidebar:
         level: Intermediate
 
     interests:
-      - item: 
+      - item: HCI
         link:
 
-      - item: 
+      - item: Virtual Reality
         link:
 
       - item: 
@@ -74,8 +74,8 @@ publications:
 
 experiences:
     - role: Research Assistant
-      time: June 2019- Current
-      company: Information Science, Cornell University (PI Advisor: Sue Fussell) 
+      time: June 2019 - Current
+      company: Information Science, Cornell University (PI Advisor Sue Fussell) 
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
