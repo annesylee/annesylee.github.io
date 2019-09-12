@@ -28,10 +28,10 @@ sidebar:
         level: Intermediate
 
     interests:
-      - item: HCI
+      - item: 
         link:
 
-      - item: Virtual Reality
+      - item: 
         link:
 
       - item: 
@@ -62,8 +62,8 @@ publications:
     papers:
       - title: Expressing the personalities of the conversational agents with visual and verbal feedback 
         authors: <strong> Lee, Seoyoung, </strong> Lee, G., Kim, S., and Lee, J. 
-        conference: Electronics. 2019 <br> -Abstract: adsfadfasdfasdfas
-        
+        conference: Electronics. 2019 <br> asldkfjsdlakfjlsdkjflsdkjf
+
       - title: Game or Live Streaming? Motivation and Experience in Live Mobile Quiz Shows.
         authors: Kim, S., Lee, G., <strong> Lee, Seoyoung </strong>, Lee, S., and Lee, J. 
         conference: In Proceedings of the CHI PLAY 2019.
@@ -73,18 +73,22 @@ publications:
         conference: 16th International Conference on Ubiquitous Robots. IEEE.
 
 experiences:
-    - role: Research Assistant
-      time: June 2019 - Current
-      company: Information Science, Cornell University 
+    - role: Lead Developer
+      time: 2015 - Present
+      company: Startup Hubs, San Francisco
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
         Cum sociis natoque penatibus et magnis dis parturient montes,
         nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.          
+        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+        error sit voluptatem accusantium doloremque laudantium, totam rem
+        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+        architecto beatae vitae dicta sunt explicabo.
           - Bullet point
           - Bullet point
-    - role: Research Assistant
+    - role: Senior Software Engineer
       time: 2014 - 2015
       company: Google, London
       details: |
