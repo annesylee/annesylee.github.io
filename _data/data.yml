@@ -85,20 +85,16 @@ publications:
 experiences:
     - role: System & UX designer 
       time: 2018 - 2019
-      company: Funded by Ministry of Trade, Industry, and Energy, Ministry of Science, ICT
+      company: Ministry of Trade, Industry, and Energy, Ministry of Science, ICT, Seoul, Korea
       details: |
         Building Social Dialogue Model for chatbots. 
           - Bullet point
           - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: UX researcher
+      time: 2018 - 2019
+      company: LG Electronics, Seoul, Korea
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Smart Speaker persona-hub system project.
           - Bullet point
           - Bullet point
     - role: UI Developer
