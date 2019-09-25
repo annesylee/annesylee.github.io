@@ -76,7 +76,9 @@ publications:
         authors: <strong> Lee, Seoyoung </strong>, Choi., J., and Lim, Y. 
         conference: 16th International Conference on Ubiquitous Robots. IEEE. <br><a href="UR2019.pdf"> PDF</a></br>
     
-    extended abstract:
+    title: Poster
+    intro:
+    papers:
       - title: Designing Social Dialogue Model for Human Robot Interactions.
         authors: <strong> Lee, Seoyoung </strong>, Choi., J., and Lim, Y. 
         conference: In Proceedings of HRI'19 workshop. ACM. 
