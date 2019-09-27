@@ -125,12 +125,12 @@ projects:
         link: "project1.html"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Designing the tangible user interface named AQUILA
+        link: "http://seerai.com/#"
+        tagline: "UX design, Funded by SeerAI INC."
 
-      - title: Tempo
-        link: "#"
+      - title: Broadcasting News Content Generation using Robot Journalism Technology
+        link: "https://news.sbs.co.kr/news/reporterPage.do?reporterId=NARe&selectType=ALL"
         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
       - title: Atom
