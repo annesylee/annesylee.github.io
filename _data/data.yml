@@ -75,7 +75,15 @@ publications:
       - title: Designing Social Dialogue Model for Human Robot Interactions.
         authors: <strong> Lee, Seoyoung </strong>, Choi., J., and Lim, Y. 
         conference: 16th International Conference on Ubiquitous Robots. IEEE. <br><a href="UR2019.pdf"> PDF</a></br>
-
+    
+    title: Posters
+    intro: |
+    papers:
+      - title: feedback 
+        authors: <strong> Lee, Seoyoung, </strong> Lee, G., Kim, S., and Lee, J. 
+        conference: Electronics. 2019 <br><a href = "Electronics.pdf"> PDF</a></br>
+    
+    
 experiences:
     - role: System & UX designer 
       time: 2018 - 2019
