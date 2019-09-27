@@ -61,7 +61,7 @@ education:
       university: Cornell University
 
 publications:
-    title: Publications
+    title: Full Papers
     intro: |
     papers:
       - title: Full paper 1. Expressing the personalities of the conversational agents with visual and verbal feedback 
@@ -76,19 +76,12 @@ publications:
         authors: <strong> Lee, Seoyoung </strong>, Choi., J., and Lim, Y. 
         conference: 16th International Conference on Ubiquitous Robots. IEEE. <br><a href="UR2019.pdf"> PDF</a></br>
 
-      - title: Poster 1. Designing Social Dialogue Model for Human Robot Interactions.
+      - title: Workshop paper 1. Designing Social Dialogue Model for Human Robot Interactions.
         authors: <strong> Lee, Seoyoung </strong>, Lee, G., Choi., J., and Lim, Y. 
-        conference: In Proceedings of HRI 2019 workshop. ACM. (Daegu, South Korea). <br><a href = "HRI2019.pdf"> PDF</a></br>
-        
-      - title: Poster 2. Robots in Diverse Contexts: Effects of Robots Tasks on Expected Personality.
-        authors: <strong> Lee, Seoyoung </strong>, Kim, S., Lee, G., and Lee, J. 
-        conference: In Proceedings of HRI 2018. ACM. (Chicago, USA). <br><a href = "HRI2018.pdf"> PDF</a></br>
+        conference: In Proceedings of HRI19 workshop. ACM. Daegu, South Korea.
     
-      - title: Poster 3. Immersive VR for numerical engagement.
-        authors: <strong> Lee, Seoyoung </strong>, Kim, S., Lee, G., and Lee, J. 
-        conference: In Proceedings of VRST 2017. ACM. (Gothenburg, Sweden). <br><a href = "VRST2017.pdf"> PDF</a></br>
     
-
+    
 experiences:
     - role: System & UX designer 
       time: 2018 - 2019
