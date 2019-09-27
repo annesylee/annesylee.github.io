@@ -61,7 +61,7 @@ education:
       university: Cornell University
 
 publications:
-    title: Publications
+    title: Full Papers
     intro: |
     papers:
       - title: Expressing the personalities of the conversational agents with visual and verbal feedback 
@@ -75,7 +75,8 @@ publications:
       - title: Designing Social Dialogue Model for Human Robot Interactions.
         authors: <strong> Lee, Seoyoung </strong>, Choi., J., and Lim, Y. 
         conference: 16th International Conference on Ubiquitous Robots. IEEE. <br><a href="UR2019.pdf"> PDF</a></br>
-    
+
+publications:
     title: Posters
     intro: |
     papers:
