@@ -134,46 +134,25 @@ projects:
         link: "#"
         tagline: "
         <br> Role: UX designer 
-        <br> Result: Devloped the prototype
-        <br> Purpose: To provide clean air, eliminate allergens and pollutants from the clean air we breathe 
-        <br> Target: People who suffer from air pollutants
-        <br> Duration: Summer 2019 "
+        <br> Result: devloped the prototype
+        <br> Purpose: to provide clean air, eliminate allergens and pollutants from the clean air we breathe 
+        <br> Target: people who suffer from air pollutants"
 
       - title: Communication Research Proejct about Cigarette Package Inserts
         link: "#"
-        tagline: "
-        <br> Role: Off-campus data collection, Baseline interview, Baseline survey
-        <br> Purpose: To explore the impact of cigarette package messages 
-        <br> Target: Urban and rural adult smokers
-        <br> Duration: Summer 2019"
-        
+        tagline: "Off-campus data collection, Baseline interviews, Baseline survey, to explore the impact of cigarette package messages"
+     
       - title: Smart Speaker Persona-hub system project 
         link: "project1.html"
-        tagline: "
-        <br> Role: UX researcher, Building persona, Market research, Experiment, Data analysis 
-        <br> Purpose: To examine the role of the hub agent in diverse contexts including social interaction and IoT setting. 
-        <br> Target: Families 
-        <br> Result: Children preferred the hub agent, but adults did not prefer the hub agent, especially in IoT task.
-        Overall, family members preferred the hub agent in social interactions. 
-        <br> Duration: June 2018 - December 2018 "
-        
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+
       - title: Designing the tangible user interface named AQUILA
-        link: "http://seerai.com/?page_id=440"
-        tagline: "
-        <br> Role: UX researcher, User testing, Market research, User Interface design 
-        <br> Purpose: To design the coding robot for education to improve creative computational thinking
-        <br> Target: Children
-        <br> Result: Developed the coding robot interface applying the unplugged method 
-        <br> Duration: June 2016- August 2018"
+        link: "http://seerai.com/#"
+        tagline: "UX design, Funded by SeerAI INC."
 
       - title: Broadcasting News Content Generation using Robot Journalism Technology
         link: "https://news.sbs.co.kr/news/reporterPage.do?reporterId=NARe&selectType=ALL"
-        tagline: tagline: "
-        <br> Role: UX researcher, Build client of the news algorithm
-        <br> Purpose: To implement the robot journalism 
-        <br> Target: News reader
-        <br> Result: Developed about 250 news articles for Korean election
-        <br> Duration: Nov 2016- May 2017 "
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
 
 skills: 
