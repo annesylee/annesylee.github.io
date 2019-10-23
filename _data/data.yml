@@ -16,7 +16,6 @@ sidebar:
     phone: 
     website: annesylee.github.io #do not add http://
     linkedin: 
-    medium: medium.com/@annesylee
     
     languages:
       - idiom: English
@@ -29,13 +28,13 @@ sidebar:
         level: Intermediate
 
     interests:
-      - item: HCI 
+      - item: Human-Computer Interaction 
         link:
 
       - item: User Experience
         link:
 
-      - item: Virtual Reality
+      - item: Virtual Reality / Augmented Reality
         link:
 
 career-profile:
@@ -48,17 +47,17 @@ career-profile:
       I worked at Robotics and Media Institute as a researcher at [Korea 
       Institute of Science and Technology](https://www.kist.re.kr/rmi/user/main/main).
       
-      I believe that design is the interplay between technology and psychology. In particular, understanding people
-      is the key to making designs useful and practical. I strongly believe that human centered and user oriented
-      designs are essential factors for positive and sustainable interactions to produce pleasurable experiences for 
+      I believe that design is the <strong> interplay between technology and psychology </strong>. In particular, understanding people
+      is the key to making designs useful and practical. I strongly believe that <strong> human centered and user oriented
+      designs </strong> are essential factors for positive and sustainable interactions to produce pleasurable experiences for 
       users. 
       
-      I am mainly interested in examining the User Experience with diverse forms of media depending on individual 
-      psychological and physiological characteristics, such as personality, information processing style, anxiety level,
-      and emotion. In addition, I am inteterested in anlyzing user experiences depending on different demographic and 
-      background information, such as age, culture, and information literacy. I would also like to conduct research
-      targeting people with disabilities. In particular, I hope my research will help people with motion disabilities
-      relive their stress and provide them with positive experiences when undergoing rehabilitation and rememdial therapies. 
+      I am mainly interested in examining the User Experience with diverse forms of media depending on <strong> individual 
+      psychological and physiological characteristics </strong>, such as personality, information processing style, anxiety level,
+      and emotion. In addition, I am inteterested in anlyzing user experiences depending on different <strong> demographic and 
+      background information </strong>, such as age, culture, and information literacy. I would also like to conduct 
+      inclusive design research targeting people with disabilities. In particular, I hope my research will help people 
+      with motion disabilities relive their stress and provide them with positive experiences when undergoing rehabilitation and rememdial therapies. 
       
 education:
     - degree: M.P.S. in Information Science
@@ -132,12 +131,14 @@ projects:
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: On-Ion's wearable air purifier
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        link: "onion.png"
+        tagline: "Role: UX designer, <br> Result: devloped the prototype, 
+        <br> Purpose: to provide clean air, eliminate allergens and pollutants
+        from the clean air we breathe <br> Target: people who suffer from air pollutants"
 
-      - title: Delta
+      - title: Communication Research Proejct about Cigarette Package Inserts
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Off-campus data collection, Baseline interviews, Baseline survey, to explore the impact of cigarette package messages"
      
       - title: Smart Speaker Persona-hub system project 
         link: "project1.html"
