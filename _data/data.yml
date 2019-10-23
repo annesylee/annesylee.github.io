@@ -132,9 +132,9 @@ projects:
     assignments:
       - title: On-Ion's wearable air purifier
         link: "onion.png"
-        tagline: "Role: UX designer, <br> Result: devloped the prototype, 
-        <br> Purpose: to provide clean air, eliminate allergens and pollutants
-        from the clean air we breathe <br> Target: people who suffer from air pollutants"
+        tagline: "<br> <li> Role: UX designer </li> <br><li> Result: devloped the prototype </li>
+        <br> <li> Purpose: to provide clean air, eliminate allergens and pollutants
+        from the clean air we breathe </li> <br> <li> Target: people who suffer from air pollutants</li> "
 
       - title: Communication Research Proejct about Cigarette Package Inserts
         link: "#"
