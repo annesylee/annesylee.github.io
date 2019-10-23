@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Anne Seoyoung Lee
-    tagline: HCI UX researcher
+    tagline: Human-Computer Interaction (User Experience) Researcher
     avatar: pic.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -48,8 +48,17 @@ career-profile:
       I worked at Robotics and Media Institute as a researcher at [Korea 
       Institute of Science and Technology](https://www.kist.re.kr/rmi/user/main/main).
       
-      I am interested in analyzing and observing affective and interactive interactions between users and diverse
-      media platforms. 
+      I believe that design is the interplay between technology and psychology. In particular, understanding people
+      is the key to making designs useful and practical. I strongly believe that human centered and user oriented
+      designs are essential factors for positive and sustainable interactions to produce pleasurable experiences for 
+      users. 
+      
+      I am mainly interested in examining the User Experience with diverse forms of media depending on individual 
+      psychological and physiological characteristics, such as personality, information processing style, anxiety level,
+      and emotion. In addition, I am inteterested in anlyzing user experiences depending on different demographic and 
+      background information, such as age, culture, and information literacy. I would also like to conduct research
+      targeting people with disabilities. In particular, I hope my research will help people with motion disabilities
+      relive their stress and provide them with positive experiences when undergoing rehabilitation and rememdial therapies. 
       
 education:
     - degree: M.P.S. in Information Science
@@ -122,6 +131,14 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
+      - title: On-Ion's wearable air purifier
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+     
       - title: Smart Speaker Persona-hub system project 
         link: "project1.html"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
@@ -133,14 +150,6 @@ projects:
       - title: Broadcasting News Content Generation using Robot Journalism Technology
         link: "https://news.sbs.co.kr/news/reporterPage.do?reporterId=NARe&selectType=ALL"
         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 
 skills: 
