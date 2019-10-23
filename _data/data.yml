@@ -135,12 +135,15 @@ projects:
         tagline: "
         <br> Role: UX designer 
         <br> Result: devloped the prototype
-        <br> Purpose: to provide clean air, eliminate allergens and pollutants from the clean air we breathe 
+        <br> Purpose: To provide clean air, eliminate allergens and pollutants from the clean air we breathe 
         <br> Target: people who suffer from air pollutants"
 
       - title: Communication Research Proejct about Cigarette Package Inserts
         link: "#"
-        tagline: "Off-campus data collection, Baseline interviews, Baseline survey, to explore the impact of cigarette package messages"
+        tagline: "
+        <br> Role: Off-campus data collection, baseline interview, baseline survey
+        <br> Purpose: To explore the impact of cigarette package messages
+        <br> Targets: Urban and rural adult smokers"
      
       - title: Smart Speaker Persona-hub system project 
         link: "project1.html"
