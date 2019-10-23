@@ -155,26 +155,25 @@ projects:
         <br> Target: Families 
         <br> Result: Children preferred the hub agent, but adults did not prefer the hub agent, especially in IoT task.
         Overall, family members preferred the hub agent in social interactions. 
-        <br> Duration: June 2018~ December 2018"
+        <br> Duration: June 2018 - December 2018"
         
       - title: Designing the tangible user interface named AQUILA
-        link: "http://seerai.com/#"
+        link: "http://seerai.com/?page_id=440"
         tagline: "
         <br> Role: UX researcher, User testing, Market research, User Interface design 
-        <br> Purpose:  
-        <br> Target: Families 
-        <br> Result: Children preferred the hub agent, but adults did not prefer the hub agent, especially in IoT task.
-        Overall, family members preferred the hub agent in social interactions. 
-        <br> Duration: June 2018~ December 2018"
+        <br> Purpose: To design the coding robot for education to improve creative computational thinking
+        <br> Target: Children
+        <br> Result: Developed the coding robot interface applying the unplugged method 
+        <br> Duration: June 2016 - August 2018"
 
       - title: Broadcasting News Content Generation using Robot Journalism Technology
         link: "https://news.sbs.co.kr/news/reporterPage.do?reporterId=NARe&selectType=ALL"
         tagline: tagline: "
         <br> Role: UX researcher, Build client of the news algorithm
-        <br> Purpose:  
-        <br> Target:  
-        <br> Result: 
-        <br> Duration: "
+        <br> Purpose: To implement the robot journalism 
+        <br> Target: News reader
+        <br> Result: Developed about 250 news articles for Korean election
+        <br> Duration: Nov 2016 - May 2017"
 
 
 skills: 
