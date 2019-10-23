@@ -147,7 +147,13 @@ projects:
      
       - title: Smart Speaker Persona-hub system project 
         link: "project1.html"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "
+        <br> Role: UX researcher, buildling persona, market research, experiment, data analysis
+        <br> Purpose: To examine the role of the hub agent in diverse contexts including social 
+        interactions and IoT setting. 
+        <br> Targets: Families 
+        <br> Results: Children preferred the hub agent, but adults did not prefer the hub agent in 
+        IoT task. Family members preferred the hub agent in social interactions.
 
       - title: Designing the tangible user interface named AQUILA
         link: "http://seerai.com/#"
@@ -155,9 +161,12 @@ projects:
 
       - title: Broadcasting News Content Generation using Robot Journalism Technology
         link: "https://news.sbs.co.kr/news/reporterPage.do?reporterId=NARe&selectType=ALL"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-
+        tagline: "
+        <br> Role: UX researcher, generate the client of algorithm for the news article during election.
+        <br> Purpose: Develop the news article applying the Robot Journalism technique
+        <br> Results: Our team developed the NARe (News by Artificial Intelligence Reporter)" 
+        
+        
 skills: 
     title: 
 
