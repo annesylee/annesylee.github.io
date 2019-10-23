@@ -110,8 +110,10 @@ experiences:
       company: LG Electronics, Seoul, Korea
       details: |
         Smart Speaker persona-hub system project.
-          - Bullet point
-          - Bullet point
+          - Role: UX researcher, building persona, market research, experiment, data analysis
+          - Purpose: To examine the role of the hub agent in diverse contexts including social interactions and IoT setting. 
+          - Target: Families
+          - Results: Children preferred the hub agent, but adults did not prefer the hub agent in IoT task.
     - role: UX Researcher
       time: 2017 - 2018
       company: Institute for Information & Communications Technology Promotion (IITP) and Ministry of Science and ICT, Korea
