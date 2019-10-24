@@ -98,33 +98,30 @@ publications:
         conference: In Proceedings of VRST 2017 workshop. ACM. Gothenberg, Sweden. <br><a href= "VRST2017.pdf"> PDF</a></br> 
     
 experiences:
-    - role: Susan Fussell's lab, Cornell University, Information Science 
-      time: June 2019 - Current
+    - role: [Susan Fussell's lab](http://sfussell.hci.cornell.edu/), Cornell University, Information Science 
+      time: June 2019 - September 2019
       company: Research Assistant
       details: |
           - Investigation of how people use mobile translation applications while traveling abroad
-          - Advisor: [Sue Fussell](http://sfussell.hci.cornell.edu/)
          
-    - role: UX researcher
-      time: 2018 July - 2019 March
-      company: LG Electronics, Seoul, Korea
+    - role: [DUET lab](http://duetlab.human.cornell.edu/), Cornell University, Design+ Environmental Analysis
+      time: June 2019 - Current 
+      company: Research Assistant
       details: |
-        Smart Speaker persona-hub system project.
-          - Role: UX researcher, building persona, market research, experiment, data analysis
-          - Purpose: To examine the role of the hub agent in diverse contexts including social interactions and IoT setting. 
-          - Target: Families
-          - Results: Children preferred the hub agent, but adults did not prefer the hub agent in IoT task.
-    - role: UX Researcher
-      time: 2017 September - 2018 September
-      company: Institute for Information & Communications Technology Promotion (IITP) and Ministry of Science and ICT, Korea
+          - Advisor: So-Yeon Yoon 
+          - 
+  
+    - role: On-Ion, Cornell University based start-up company, Ithaca, NY
+      time: July 2019 - Sep 2019
+      company: Web designer
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+ 
+    - role: Moible Communication Lab, Cornell University, Information Science 
+      time: June 2019 - September 2019
+      company: Research Assistant
+      details: |
+          - Director: [Jeff Nierdeppe](https://niederdeppe.comm.cornell.edu/)
+          
 projects:
     title: Projects
     intro: >
