@@ -98,19 +98,21 @@ publications:
         conference: In Proceedings of VRST 2017 workshop. ACM. Gothenberg, Sweden. <br><a href= "VRST2017.pdf"> PDF</a></br> 
     
 experiences:
+    - role: DUET lab, Cornell University, Design+ Environmental Analysis
+      time: June 2019 - Current 
+      company: Research Assistant
+      details: |
+          - Experiencing Small Living Space: Real-Scale Simulation with VR Technology
+          - Exploring Augmented Reality for Mobile Learning: A Case Study with Children’s Readings on Sustainable Futures
+          - Advisor: So-Yeon Yoon
+          - [DUET lab homepage](http://duetlab.human.cornell.edu/)
+    
     - role: Susan Fussell's lab, Cornell University, Information Science 
       time: June 2019 - September 2019
       company: Research Assistant
       details: |
           - Investigation of how people use mobile translation applications while traveling abroad
           - Advisor: [Sue Fussell](http://sfussell.hci.cornell.edu/)
-         
-    - role: DUET lab, Cornell University, Design+ Environmental Analysis
-      time: June 2019 - Current 
-      company: Research Assistant
-      details: |
-          - Advisor: So-Yeon Yoon 
-          - 
   
     - role: On-Ion, Cornell University based start-up company, Ithaca, NY
       time: July 2019 - Sep 2019
