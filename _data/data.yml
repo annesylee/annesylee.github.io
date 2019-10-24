@@ -150,14 +150,14 @@ projects:
         <br> Role: UX designer 
         <br> Result: devloped the prototype
         <br> Purpose: To provide clean air, eliminate allergens and pollutants from the clean air we breathe 
-        <br> Target: people who suffer from air pollutants"
+        <br> Target Users: people who suffer from air pollutants"
 
       - title: Communication Research Proejct about Cigarette Package Inserts
         link: "#"
         tagline: "
         <br> Role: Off-campus data collection, baseline interview, baseline survey
         <br> Purpose: To explore the impact of cigarette package messages
-        <br> Targets: Urban and rural adult smokers"
+        <br> Target: Urban and rural adult smokers"
      
       - title: Smart Speaker Persona-hub system project 
         link: "project1.html"
@@ -165,13 +165,17 @@ projects:
         <br> Role: UX researcher, buildling persona, market research, experiment, data analysis
         <br> Purpose: To examine the role of the hub agent in diverse contexts including social 
         interactions and IoT setting. 
-        <br> Targets: Families 
+        <br> Target Users: Families 
         <br> Results: Children preferred the hub agent, but adults did not prefer the hub agent in 
         IoT task. Family members preferred the hub agent in social interactions. "
 
       - title: Designing the tangible user interface named AQUILA
         link: "http://seerai.com/#"
-        tagline: "UX design, Funded by SeerAI INC."
+        tagline: "
+        <br> Role: UX designer, System design
+        <br> Purpose: Develop the coding robot for computational thinking 
+        <br> Target Users: Children 
+        <br> Results: Develop the tangible user interface named AQUILA"
 
       - title: Broadcasting News Content Generation using Robot Journalism Technology
         link: "https://news.sbs.co.kr/news/reporterPage.do?reporterId=NARe&selectType=ALL"
