@@ -111,35 +111,37 @@ experiences:
       time: June 2019 - Sep 2019
       company: Research Assistant
       details: |
-          - Advisor: [Sue Fussell](http://sfussell.hci.cornell.edu/)
           - Investigation of how people use mobile translation applications while traveling abroad
+          - Advisor: [Sue Fussell](http://sfussell.hci.cornell.edu/)
   
     - role: On-Ion, Cornell University based start-up company, Ithaca, NY
       time: July 2019 - Sep 2019
       company: Web designer
       details: |
-          - Developed the prototype for providing clean air, eliminate allergens and pollutants
+          - Developed the prototype for people who suffer from air pollutants
  
     - role: Moible Communication Lab, Cornell University, Communication 
       time: June 2019 - Sep 2019
       company: Research Assistant
       details: |
           - Director: [Jeff Nierdeppe](https://niederdeppe.comm.cornell.edu/)
-          - Explored the impact of cigarette package messages
-         
+          - Analyzed the role of cigarette package messages among smokers
+          
     - role: Media Robot Research Lab, KIST 
       time: June 2018 - June 2019
       company: Student Researcher
       details: |
           - [Media Robot Research Lab homepage](https://www.kist.re.kr/rmi/user/main/main)
-          - Designed the social dialogue model for human-robot interaction
-   
-   - role: SeerAI INC. 
+          - Designed the social dialogue model for chatbots
+          
+    - role: SeerAI INC. 
       time: Aug 2016 - Aug 2019
       company: UX designer, UX Design team
       details: |
           - [Coding Robot AQUILA](http://seerai.com/?page_id=440)
-          - Designed the user interface for educational coding robot named AQUILA                  
+          - Designed the educational coding robot for children
+          
+                    
           
 projects:
     title: Projects
