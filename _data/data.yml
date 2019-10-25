@@ -168,6 +168,7 @@ projects:
         link: "lg.png"
         tagline: "
         <br> <strong> My Role </strong>: UX researcher, buildling persona, market research, experiment, data analysis
+        <br> <strong> Target Users </strong>: Families
         <br> <strong> Purpose </strong>: To examine the role of the hub agent in diverse contexts including social 
         interactions and IoT setting. 
         <br> <strong> Results </strong>: Children preferred the hub agent, but adults did not prefer the hub agent in 
@@ -177,14 +178,15 @@ projects:
         link: "http://seerai.com/#"
         tagline: "
         <br> <strong> My Role </strong>: UX designer, System design
-        <br> <strong> Purpose </strong>: Develop the coding robot for computational thinking 
         <br> <strong> Target Users </strong>: Children 
-        <br> <strong> Results </strong>: Develop the tangible user interface named AQUILA"
+        <br> <strong> Purpose </strong>: To develop the coding robot for computational thinking 
+        <br> <strong> Results </strong>: Developed the tangible user interface named AQUILA"
 
       - title: Broadcasting News Content Generation using Robot Journalism Technology
         link: "https://news.sbs.co.kr/news/reporterPage.do?reporterId=NARe&selectType=ALL"
         tagline: "
         <br> <strong> My Role </strong>: UX researcher, generate the client of algorithm for the news article during election.
+        <br> <strong> Target Users </strong>: News viewers and readers in Korea
         <br> <strong> Purpose </strong>: Develop the news article applying the Robot Journalism technique
         <br> <strong> Results </strong>: Our team developed the NARe (News by Artificial Intelligence Reporter)" 
         
