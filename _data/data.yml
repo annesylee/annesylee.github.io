@@ -151,23 +151,23 @@ projects:
       - title: On-Ion's wearable air purifier
         link: ""
         tagline: "
-        <br> Role: UX designer 
-        <br> Target Users: People who suffer from air pollutants
-        <br> Purpose: To provide clean air, eliminate allergens and pollutants from the clean air we breathe 
-        <br> Result: Devloped the prototype called On-Ion"
+        <br> <strong> My Role </strong>: UX designer, Web designer 
+        <br> <strong> Target Users </strong>: People who suffer from air pollutants
+        <br> <strong> Purpose </strong>: To provide clean air, eliminate allergens and pollutants from the clean air we breathe 
+        <br> <strong> Result </strong>: Devloped the prototype called On-Ion"
 
       - title: Communication Research Proejct about Cigarette Package Inserts
         link: "truck.png"
         tagline: "
-        <br> Role: Off-campus data collection, baseline interview, baseline survey
-        <br> Target Users: Urban and rural adult smokers
-        <br> Purpose: To explore the impact of cigarette package messages depending on demographics 
-        <br> Results: In progress of collecting data"
+        <br> <strong> My Role </strong>: Off-campus data collection, baseline interview, baseline survey
+        <br> <strong> Target Users </strong>: Urban and rural adult smokers
+        <br> <strong> Purpose </strong>: To explore the impact of cigarette package messages depending on demographics 
+        <br> <strong> Results </strong>: In progress of collecting data"
      
       - title: Smart Speaker Persona-hub system project 
         link: "lg.png"
         tagline: "
-        <br> <strong> Role </strong>: UX researcher, buildling persona, market research, experiment, data analysis
+        <br> <strong> My Role </strong>: UX researcher, buildling persona, market research, experiment, data analysis
         <br> <strong> Purpose </strong>: To examine the role of the hub agent in diverse contexts including social 
         interactions and IoT setting. 
         <br> <strong> Results </strong>: Children preferred the hub agent, but adults did not prefer the hub agent in 
@@ -176,17 +176,17 @@ projects:
       - title: Designing the tangible user interface named AQUILA
         link: "http://seerai.com/#"
         tagline: "
-        <br> Role: UX designer, System design
-        <br> Purpose: Develop the coding robot for computational thinking 
-        <br> Target Users: Children 
-        <br> Results: Develop the tangible user interface named AQUILA"
+        <br> <strong> My Role </strong>: UX designer, System design
+        <br> <strong> Purpose </strong>: Develop the coding robot for computational thinking 
+        <br> <strong> Target Users </strong>: Children 
+        <br> <strong> Results </strong>: Develop the tangible user interface named AQUILA"
 
       - title: Broadcasting News Content Generation using Robot Journalism Technology
         link: "https://news.sbs.co.kr/news/reporterPage.do?reporterId=NARe&selectType=ALL"
         tagline: "
-        <br> Role: UX researcher, generate the client of algorithm for the news article during election.
-        <br> Purpose: Develop the news article applying the Robot Journalism technique
-        <br> Results: Our team developed the NARe (News by Artificial Intelligence Reporter)" 
+        <br> <strong> My Role </strong>: UX researcher, generate the client of algorithm for the news article during election.
+        <br> <strong> Purpose </strong>: Develop the news article applying the Robot Journalism technique
+        <br> <strong> Results </strong>: Our team developed the NARe (News by Artificial Intelligence Reporter)" 
         
         
 skills: 
