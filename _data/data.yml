@@ -149,28 +149,28 @@ projects:
       
     assignments:
       - title: On-Ion's wearable air purifier
-        link: "#"
+        link: ""
         tagline: "
         <br> Role: UX designer 
-        <br> Result: devloped the prototype
+        <br> Target Users: People who suffer from air pollutants
         <br> Purpose: To provide clean air, eliminate allergens and pollutants from the clean air we breathe 
-        <br> Target Users: people who suffer from air pollutants"
+        <br> Result: Devloped the prototype called On-Ion"
 
       - title: Communication Research Proejct about Cigarette Package Inserts
-        link: "#"
+        link: "truck.png"
         tagline: "
         <br> Role: Off-campus data collection, baseline interview, baseline survey
-        <br> Purpose: To explore the impact of cigarette package messages
-        <br> Target: Urban and rural adult smokers"
+        <br> Target Users: Urban and rural adult smokers
+        <br> Purpose: To explore the impact of cigarette package messages depending on demographics 
+        <br> Results: In progress of collecting data"
      
       - title: Smart Speaker Persona-hub system project 
         link: "lg.png"
         tagline: "
-        <br> Role: UX researcher, buildling persona, market research, experiment, data analysis
-        <br> Purpose: To examine the role of the hub agent in diverse contexts including social 
+        <br> <strong> Role </strong>: UX researcher, buildling persona, market research, experiment, data analysis
+        <br> <strong> Purpose </strong>: To examine the role of the hub agent in diverse contexts including social 
         interactions and IoT setting. 
-        <br> Target Users: Families 
-        <br> Results: Children preferred the hub agent, but adults did not prefer the hub agent in 
+        <br> <strong> Results </strong>: Children preferred the hub agent, but adults did not prefer the hub agent in 
         IoT task. Family members preferred the hub agent in social interactions. "
 
       - title: Designing the tangible user interface named AQUILA
