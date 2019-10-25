@@ -47,16 +47,16 @@ career-profile:
       I worked at Robotics and Media Institute as a researcher at [Korea 
       Institute of Science and Technology](https://www.kist.re.kr/rmi/user/main/main).
       
-      I believe that design is the <strong> interplay between technology and psychology </strong>. In particular, understanding people
+      I believe that design is the <strong> interplay between technology and psychology. </strong> In particular, understanding people
       is the key to making designs useful and practical. I strongly believe that <strong> human centered and user oriented
-      designs </strong> are essential factors for positive and sustainable interactions to produce pleasurable experiences for 
+      designs</strong> are essential factors for positive and sustainable interactions to produce pleasurable experiences for 
       users. 
       
       I am mainly interested in examining the User Experience with diverse forms of media depending on <strong> individual 
       psychological and physiological characteristics, </strong> such as personality, information processing style, anxiety level,
       and emotion. In addition, I am inteterested in anlyzing user experiences depending on different <strong> demographic and 
       background information,</strong> such as age, culture, and information literacy. I would also like to conduct 
-      inclusive design research targeting people with disabilities. In particular, I hope my research will help people 
+      <strong> inclusive design research </strong> targeting people with disabilities. In particular, I hope my research will help people 
       with motion disabilities relive their stress and provide them with positive experiences when undergoing rehabilitation and rememdial therapies. 
       
 education:
@@ -135,7 +135,7 @@ experiences:
           - Designed the social dialogue model for chatbots
           
     - role: SeerAI INC. 
-      time: Aug 2016 - Aug 2019
+      time: Aug 2016 - June 2019
       company: UX designer, UX Design team
       details: |
           - [Coding Robot AQUILA](http://seerai.com/?page_id=440)
